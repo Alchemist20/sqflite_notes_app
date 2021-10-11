@@ -1,4 +1,4 @@
-# sqflite_db_practice
+# sqflite_db_example
 
 A new Flutter project.
 
